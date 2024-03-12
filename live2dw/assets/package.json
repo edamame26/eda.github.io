@@ -1,11 +1,19 @@
 {
   "name": "live2d-widget-model-rem",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "rem live2d model for live2d-widget.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiazeyu/live2d-widget-models.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/xiazeyu/live2d-widget-models/issues"
+  },
+  "homepage": "https://github.com/xiazeyu/live2d-widget-models#readme"
 }

@@ -1,9 +1,9 @@
 {
 	"version": "Live2D MoePet v1.1",
 	"name": "remu",
-	"model": "remu.moc",
+	"model": "moc/remu.moc",
 	"textures": [
-		"remu2048/texture_00.png"
+		"moc/remu2048/texture_00.png"
 	],
 	"physics": "remu.physics.json",
 	"pose": "remu.pose.json",
